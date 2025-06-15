@@ -1,1 +1,1 @@
-# repo-example
+Projeto exemplo de DevOps
